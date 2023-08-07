@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>IT3G</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+   <div class="container">
+   	<nav><span><h2>IT3G</h2></span></nav>
+
+   	  <div id="b1" class="box box1">
+   	  	<span>Mathematical Statistic</span>
+   	  </div>
+   	  <div id="b2" class="box box2">
+   	  	<span>Integrative Programming & Technology 1</span>
+   	  </div>
+   	  <div id="b3" class="box box3">
+   	  	<span>Event-driven Programming</span>
+   	  </div>
+   	  <div id="b4" class="box box4">
+   	  	<span>Professional Elective 1</span>
+   	  </div>
+   	  <div id="b5" class="box box5">
+   	  	<span>Project Management in IT</span>
+   	  </div>
+   	  <div id="b6" class="box box6">
+   	  	<span>Professional Develoment 5</span>
+   	  </div>
+   	  <div id="b7" class="box box7">
+   	  	<span>Foreign Language</span>
+   	  </div>
+
+   	  <div class="form">
+    	<div class="form-group">
+    		<div class="title-box">
+    			<span class="title">Mathematical Statistic</span>
+    		</div>
+    		<div class="input">
+    			<input id="code" type="text" name="code" value="123">
+    		</div>
+    		<div class="button">
+    			<button>Copy</button>
+    		</div>
+    	</div>
+    </div>
+   </div><!--/container-->
+    
+   <script type="text/javascript">
+   	document.querySelector('#b1').addEventListener('click', (e)=>{
+   		document.querySelector('.form').style.display="flex";
+   	});
+   </script>
+</body>
+</html>
