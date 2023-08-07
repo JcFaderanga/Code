@@ -33,6 +33,13 @@ nav{
 .box:active{
 	transform: scale(.98);
 }
+.box.active{
+	height: 50px;
+	background: rgba(0,128,0,.2);
+	border: 1px solid green;
+	color: green;
+
+}
 span{
   font-size: 17px;
   text-align: center;
