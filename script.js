@@ -45,7 +45,7 @@ function clear(){
 document.querySelector('#b0').addEventListener('click', ()=>{
    		document.querySelector('.form').style.display="flex";
    		set("Advance Database System");
-   		setVal("jeysi");
+   		setVal("kqbxfot");
    		sub(0);
    		
    	});
@@ -53,49 +53,49 @@ document.querySelector('#b0').addEventListener('click', ()=>{
 document.querySelector('#b1').addEventListener('click', ()=>{
    		document.querySelector('.form').style.display="flex";
    		set("Mathematical Statistic");
-   		setVal("kyrah");
+   		setVal("fzwtjme");
    		sub(1);
    		});
 
 document.querySelector('#b2').addEventListener('click', ()=>{
    		document.querySelector('.form').style.display="flex";
    		set("Integrative Programming & Technology 1");
-   		setVal("jaspher");
+   		setVal("i7gxbv5");
    		sub(2);
    		});
 
 document.querySelector('#b3').addEventListener('click', ()=>{
    		document.querySelector('.form').style.display="flex";
    		set("Event-driven Programming");
-   		setVal("jinuel");
+   		setVal("453lds6");
    		sub(3);
    		});
 
 document.querySelector('#b4').addEventListener('click', ()=>{
    		document.querySelector('.form').style.display="flex";
    		set("Professional Elective 1");
-   		setVal("julius");
+   		setVal("rmus7be");
    		sub(4);
    		});
 
 document.querySelector('#b5').addEventListener('click', ()=>{
    		document.querySelector('.form').style.display="flex";
    		set("Project Management in IT");
-   		setVal("rhaiza");
+   		setVal("vkavu6q");
    		sub(5);
    		});
 
 document.querySelector('#b6').addEventListener('click', ()=>{
    		document.querySelector('.form').style.display="flex";
    		set("Professional Develoment 5");
-   		setVal("grace");
+   		setVal("2kzb4fg");
    		sub(6);
    		});
 
 document.querySelector('#b7').addEventListener('click', ()=>{
    		document.querySelector('.form').style.display="flex";
    		set("Foreign Language");
-   		setVal("abdul");
+   		setVal("m4k6wie");
    		sub(7);
    		});
 
